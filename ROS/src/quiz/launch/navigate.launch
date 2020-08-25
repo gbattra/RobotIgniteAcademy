@@ -1,0 +1,9 @@
+<launch>
+    <!-- My Package launch file -->
+    <node
+        name="navigate"
+        pkg="quiz"
+        type="navigate.py"
+        output="screen">
+    </node>
+</launch>

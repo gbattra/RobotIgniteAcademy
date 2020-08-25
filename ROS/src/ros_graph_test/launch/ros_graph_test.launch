@@ -1,0 +1,8 @@
+<launch>
+    <node
+        name='ros_graph_test'
+        pkg='ros_graph_test'
+        type='ros_graph_test.py'
+        output='screen'
+    ></node>
+</launch>

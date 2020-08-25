@@ -1,0 +1,8 @@
+prefix=/home/user/catkin_ws/install
+
+Name: service_exercise
+Description: Description of service_exercise
+Version: 0.0.0
+Cflags: -I/home/user/catkin_ws/install/include
+Libs: -L/home/user/catkin_ws/install/lib 
+Requires: rospy

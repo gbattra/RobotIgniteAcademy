@@ -1,0 +1,7 @@
+<launch>
+    <node
+        name='velocity_publisher_node'
+        pkg='my_sphero_topics'
+        type='velocity_publisher_node.py'
+        output='screen'/>
+</launch>

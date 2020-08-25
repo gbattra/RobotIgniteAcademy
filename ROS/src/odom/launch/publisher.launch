@@ -1,0 +1,9 @@
+<launch>
+    <!-- My Package launch file -->
+    <node
+        name="odom_publisher"
+        pkg="odom"
+        type="publisher.py"
+        output="screen">
+    </node>
+</launch>
